@@ -1,0 +1,61 @@
+
+[
+    {
+      "title": "Obys Agency",
+      "imageSrc": "obeysagency.png",
+      "description": "Developed a visually captivating font-focused clone of the Obeys Agency website using advanced CSS, GSAP, and Locomotive.js to achieve smooth animations and dynamic scrolling effects. Integrated Textile.js for enhanced typography, ensuring an engaging and responsive user experience.",
+      "skills":  ["HTML ", "CSS ", "GSAP ", "Locomotive.js ", "JavaScript ", "Textile.js "],
+      "Livedemo":"https://gautamaggarwal-05.github.io/Obys_Agency/",
+      "source": "https://github.com/GautamAggarwal-05/Obys_Agency"
+    },
+    {
+      "title": "MunchMate",
+      "imageSrc": "FoodChef.jpg",
+      "description": "Built MunchMate, a responsive food ordering platform using React.js, Redux, and TailwindCSS, featuring dynamic Swiggy API integration, real-time cart updates, advanced restaurant filtering, and seamless user interaction across menu and informational pages",
+      "skills": ["HTML ", "Tailwind CSS ", "CSS ", "JavaScript ", "React ", "Redux Toolkit"],
+      "Livedemo":"https://order-eats-hs1g-a47ks2cwc-gautam-aggarwals-projects-2a6cacae.vercel.app/",
+      "source": "https://github.com/GautamAggarwal-05/OrderEats"
+    },
+    {
+      "title": "Xpensez.",
+      "imageSrc": "Xpensly.png",
+      "description": "Developed Xpenzly, an intuitive expense tracking web app using ReactJs,ChartJs and Firebase, with real-time data sync, user authentication, interactive visual analytics, and bulk Excel import/export for managing  transactions efficiently.",
+      "skills": ["HTML ", "CSS ", "React ", "JavaScript ", "ChartJs ", "Firebase"],
+      "Livedemo":"https://financely-c89ba.web.app/",
+      "source": "https://github.com/GautamAggarwal-05/Xpenz"
+    },
+    {
+      "title": "ClientHive",
+      "imageSrc": "ClientHive.png",
+      "description": "Developed ClientHive, a real-time MERN stack chat app with 1:1 messaging, low-latency video calls , chat analytics via Python, and scheduled messaging using Socket.io and WebSocket.",
+      "skills": ["Tailwind CSS ","React.js ", "Redux ", "Node.js ", "Express.js ", "MongoDB ","Socket.io"],
+      "Livedemo":"https://financely-c89ba.web.app/",
+      "source": "#",
+      "showDemo":true
+    },
+    {
+      "title": "Stock Price Predictor",
+      "imageSrc": "stock.avif",
+      "description": "Developed a stock price prediction model using an LSTM neural network trained on over 3,000 daily stock price data points. The model predicted future stock prices based on the last 100 days of data with 97% accuracy. Created a Streamlit app to visualize trends, moving averages, and compare predictions with actual prices.",
+      "skills": ["NumPy ", "Pandas ", "LSTM ", "TensorFlow ", "Keras ", "Yahoo Finance ", "Streamlit"],
+      "Livedemo":"https://youtu.be/flrC9PZk0yY",
+      "source": "https://github.com/GautamAggarwal-05/StockTrendPrediction"
+    },
+    {
+      "title": "Traffic Monitor",
+      "imageSrc": "TrafficCounter.png",
+      "description": "Engineered a real-time traffic monitoring system using OpenCV, YOLOv8, and SORT,   vehicle detection and tracking across high-frame-rate urban video streams for precise movement analysis.",
+      "skills": ["Python ","OpenCV ","YOLOv8 ", "SORT "],
+      "Livedemo":"https://youtu.be/K_eMQPNL0iA",
+      "source": "https://github.com/GautamAggarwal-05/Object_Detection?tab=readme-ov-file"
+    },
+    {
+      "title": "LockBoxFs(Team Project)",
+      "imageSrc": "LockBoxFs.png",
+      "description":"LockBoxFS is a desktop application that provides a secure virtual file system, allowing users to create, view, update, and delete files within a virtual disk environment. It supports file encryption, decryption, and password protection to enhance data security. My Role: 1 .Developed the Virtual File System and Virtual Disk in C++ 2 .Designed and implemented custom file descriptors, file pointers, and i-nodes 3 .Integrated the .img bit file to simulate disk-level storage 4 .Led the integration of all components to ensure smooth and cohesive application functionality",
+      "skills": ["Electron.js  ", "C++"],
+      "Livedemo":"https://www.youtube.com/watch?v=bBuOBLEaXm4",
+      "source": "https://github.com/ShivRaiGithub/SoftwareEngineeringProject",
+      "showDemo":true
+    }
+  ]
