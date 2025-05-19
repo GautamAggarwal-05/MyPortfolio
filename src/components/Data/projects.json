@@ -1,6 +1,24 @@
 
 [
     {
+      "title": "ClientHive",
+      "imageSrc": "ClientHive.png",
+      "description": "Developed ClientHive, a real-time MERN stack chat app with 1:1 messaging, low-latency video calls , chat analytics via Python, and scheduled messaging using Socket.io and WebSocket.",
+      "skills": ["Tailwind CSS ","React.js ", "Redux ", "Node.js ", "Express.js ", "MongoDB ","Socket.io"],
+      "Livedemo":"https://financely-c89ba.web.app/",
+      "source": "#",
+      "showDemo":true
+    },
+    {
+      "title": "LockBoxFs(Team Project)",
+      "imageSrc": "LockBoxFs.png",
+      "description":"LockBoxFS is a desktop application that provides a secure virtual file system, allowing users to create, view, update, and delete files within a virtual disk environment. It supports file encryption, decryption, and password protection to enhance data security. My Role: 1 .Developed the Virtual File System and Virtual Disk in C++ 2 .Designed and implemented custom file descriptors, file pointers, and i-nodes 3 .Integrated the .img bit file to simulate disk-level storage 4 .Led the integration of all components to ensure smooth and cohesive application functionality",
+      "skills": ["Electron.js  ", "C++"],
+      "Livedemo":"https://www.youtube.com/watch?v=bBuOBLEaXm4",
+      "source": "https://github.com/ShivRaiGithub/SoftwareEngineeringProject",
+      "showDemo":true
+    },
+    {
       "title": "Obys Agency",
       "imageSrc": "obeysagency.png",
       "description": "Developed a visually captivating font-focused clone of the Obeys Agency website using advanced CSS, GSAP, and Locomotive.js to achieve smooth animations and dynamic scrolling effects. Integrated Textile.js for enhanced typography, ensuring an engaging and responsive user experience.",
@@ -25,15 +43,6 @@
       "source": "https://github.com/GautamAggarwal-05/Xpenz"
     },
     {
-      "title": "ClientHive",
-      "imageSrc": "ClientHive.png",
-      "description": "Developed ClientHive, a real-time MERN stack chat app with 1:1 messaging, low-latency video calls , chat analytics via Python, and scheduled messaging using Socket.io and WebSocket.",
-      "skills": ["Tailwind CSS ","React.js ", "Redux ", "Node.js ", "Express.js ", "MongoDB ","Socket.io"],
-      "Livedemo":"https://financely-c89ba.web.app/",
-      "source": "#",
-      "showDemo":true
-    },
-    {
       "title": "Stock Price Predictor",
       "imageSrc": "stock.avif",
       "description": "Developed a stock price prediction model using an LSTM neural network trained on over 3,000 daily stock price data points. The model predicted future stock prices based on the last 100 days of data with 97% accuracy. Created a Streamlit app to visualize trends, moving averages, and compare predictions with actual prices.",
@@ -48,14 +57,5 @@
       "skills": ["Python ","OpenCV ","YOLOv8 ", "SORT "],
       "Livedemo":"https://youtu.be/K_eMQPNL0iA",
       "source": "https://github.com/GautamAggarwal-05/Object_Detection?tab=readme-ov-file"
-    },
-    {
-      "title": "LockBoxFs(Team Project)",
-      "imageSrc": "LockBoxFs.png",
-      "description":"LockBoxFS is a desktop application that provides a secure virtual file system, allowing users to create, view, update, and delete files within a virtual disk environment. It supports file encryption, decryption, and password protection to enhance data security. My Role: 1 .Developed the Virtual File System and Virtual Disk in C++ 2 .Designed and implemented custom file descriptors, file pointers, and i-nodes 3 .Integrated the .img bit file to simulate disk-level storage 4 .Led the integration of all components to ensure smooth and cohesive application functionality",
-      "skills": ["Electron.js  ", "C++"],
-      "Livedemo":"https://www.youtube.com/watch?v=bBuOBLEaXm4",
-      "source": "https://github.com/ShivRaiGithub/SoftwareEngineeringProject",
-      "showDemo":true
     }
   ]
